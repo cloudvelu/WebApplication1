@@ -67,6 +67,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="about.html" />
+    <Content Include="contact.html" />
     <Content Include="css\animate.min.css" />
     <Content Include="css\bootstrap.min.css" />
     <Content Include="css\jquery-ui.css" />
@@ -78,6 +80,7 @@
     <Content Include="css\responsive.css" />
     <Content Include="css\slick.css" />
     <Content Include="css\style.css" />
+    <Content Include="gym.html" />
     <Content Include="images\about-bg.png" />
     <Content Include="images\banner-bg.png" />
     <Content Include="images\contact-bg.png" />
@@ -97,6 +100,7 @@
     <Content Include="images\search-icon.png" />
     <Content Include="images\toggle.png" />
     <Content Include="images\twitter-icon.png" />
+    <Content Include="index.html" />
     <Content Include="js\bootstrap.bundle.min.js" />
     <Content Include="js\custom.js" />
     <Content Include="js\jquery-3.0.0.min.js" />
@@ -105,6 +109,7 @@
     <Content Include="js\jquery.validate.js" />
     <Content Include="js\plugin.js" />
     <Content Include="js\popper.min.js" />
+    <Content Include="price.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
